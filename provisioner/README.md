@@ -50,6 +50,9 @@ student_total: 2
 # Set the right workshop type, like networking, rhel or f5 (see above)
 workshop_type: rhel
 
+#The username of your aws account
+aws_user: joekisanue
+
 #####OPTIONAL VARIABLES
 
 # turn DNS on for control nodes, and set to type in valid_dns_type
